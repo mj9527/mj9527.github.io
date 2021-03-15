@@ -120,22 +120,6 @@ scheme: Muse
 # ---------------------------------------------------------------
 # Sidebar Settings
 # ---------------------------------------------------------------
-sidebar:
-# Sidebar Position - 侧栏位置（只对Pisces | Gemini两种风格有效）
-  position: left        //靠左放置
-  #position: right      //靠右放置
-
-# Sidebar Display - 侧栏显示时机（只对Muse | Mist两种风格有效）
-  #display: post        //默认行为，在文章页面（拥有目录列表）时显示
-  display: always       //在所有页面中都显示
-  #display: hide        //在所有页面中都隐藏（可以手动展开）
-  #display: remove      //完全移除
-
-  offset: 12            //文章间距（只对Pisces | Gemini两种风格有效）
-
-  b2t: false            //返回顶部按钮（只对Pisces | Gemini两种风格有效）
-
-  scrollpercent: true   //返回顶部按钮的百分比
 
 # Social Links.
 # Usage: `Key: permalink || icon`
