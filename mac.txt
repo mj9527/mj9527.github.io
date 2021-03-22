@@ -1,0 +1,7 @@
+Machine model: iMac17,1
+SMC version: 2.34f3
+EFI version: 428.0.0
+OS version: 19H2
+Boot arguments: 
+Boot time: Fri Mar 12 14:13:33 2021
+
